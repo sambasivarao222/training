@@ -1,2 +1,5 @@
-will the change reflect in git hub
+if the change done in branch will not get update in the version control git hub
+if the chnage done in master or by merge can only push to the git hub
+from only master branch you can push the files
+you can pull from any whrere in branch
 
